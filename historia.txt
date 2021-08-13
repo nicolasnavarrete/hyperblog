@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Esta es mi historia
 
 Yo tengo 25 años
@@ -5,3 +6,8 @@ Yo tengo 25 años
 Soy de Bogotá, Colombia
 
 Me comprometo a aprender Python ahora si!
+=======
+Esta es las historia de nicolas
+si
+el tiene 25 años
+>>>>>>> 31ba9c6fc99ccaa79598b2131aebd01412f46d8d
